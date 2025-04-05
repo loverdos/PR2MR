@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background Circle -->
+  <circle cx="64" cy="64" r="60" fill="#2684FF" />
+  
+  <!-- Arrow Symbol -->
+  <path d="M50 40 L78 64 L50 88" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- GitHub Icon (left) -->
+  <circle cx="35" cy="64" r="18" fill="white" />
+  <path d="M35 52 C28.5 52 23 57.5 23 64 C23 70.5 28.5 76 35 76 C38 76 40.5 74.8 42.3 73" stroke="#333" stroke-width="2" fill="none" />
+  <circle cx="30" cy="62" r="2" fill="#333" />
+  <circle cx="40" cy="62" r="2" fill="#333" />
+  <path d="M30 68 Q35 72 40 68" stroke="#333" stroke-width="1.5" fill="none" />
+  
+  <!-- GitLab Icon (right) -->
+  <path d="M93 64 L85 50 L77 64 L93 64 Z" fill="#fc6d26" />
+  <path d="M77 64 L85 50 L77 36 L69 50 L77 64 Z" fill="#fc6d26" />
+  <path d="M77 64 L69 50 L61 64 L77 64 Z" fill="#fc6d26" />
+  <path d="M77 64 L61 64 L69 78 L77 64 Z" fill="#e24329" />
+  <path d="M77 64 L93 64 L85 78 L77 64 Z" fill="#e24329" />
+  <path d="M69 78 L85 78 L77 64 L69 78 Z" fill="#fca326" />
+</svg>
